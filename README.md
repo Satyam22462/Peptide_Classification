@@ -1,4 +1,4 @@
-# 🧬 Peptide Classification – Group 48 (Kaggle Rank #1 🥇)
+# 🧬 Peptide Classification Using ML (Kaggle Rank #1 🥇)
 
 This repository contains our winning solution to the **Peptide Classification** competition hosted on Kaggle. Our team, **Group 48**, achieved **Rank 1** on the final leaderboard with an AUC of **0.9206** 🎉.
 
