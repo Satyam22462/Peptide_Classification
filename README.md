@@ -63,7 +63,7 @@ We experimented with multiple base learners:
 
 ## 💡 Strengths
 
-- Combined **bioinformatics + deep learning**
+- Combined **bioinformatics + machine learning**
 - Robust preprocessing and error handling
 - Model interpretability via ROC curves, feature importance
 - Extensive cross-validation and tuning
